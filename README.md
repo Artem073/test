@@ -1,4 +1,5 @@
-"layer": "test",
+# test
+"layer": "test"
 {"hotspots": [{
    «id»: «test_1»,
    «anchor»: {«geolocation»: {«lat»: 52.3729, «lon»: 4.93}},  
